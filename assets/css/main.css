@@ -2438,7 +2438,7 @@
 
 		.features article .inner {
 			display: inline-block;
-			vertical-align: middle;
+			vertical-align: 50%;
 			width: 50%;
 		}
 
@@ -2448,7 +2448,7 @@
 
 	.work{
 		display: inline-block;
-		padding-right: 1em;
+		padding-right: 2.5em;
 		vertical-align: middle;
 		width: 48%;
 		border-right:solid green 2px;
