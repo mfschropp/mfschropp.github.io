@@ -2436,14 +2436,6 @@
 				width: 100%;
 			}
 
-		.features article .work {
-			display: inline-block;
-			padding-right: 2.5em;
-			vertical-align: middle;
-			width: 48%;
-			border-left: 2px;
-		}
-
 		.features article .inner {
 			display: inline-block;
 			vertical-align: middle;
@@ -2453,6 +2445,14 @@
 			.features article .inner > :last-child {
 				margin-bottom: 0;
 			}
+
+	.work div{
+		display: inline-block;
+		padding-right: 2.5em;
+		vertical-align: middle;
+		width: 48%;
+		border-left:solid green 2px;
+	}
 
 /* Header */
 
