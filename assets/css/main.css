@@ -2446,12 +2446,12 @@
 				margin-bottom: 0;
 			}
 
-	.work div{
+	.work{
 		display: inline-block;
 		padding-right: 2.5em;
 		vertical-align: middle;
 		width: 48%;
-		border-left:solid green 2px;
+		border-right:solid green 2px;
 	}
 
 /* Header */
