@@ -2448,6 +2448,12 @@
 				margin-bottom: 0;
 			}
 
+	.span-work{
+		display: inline-block;
+		vertical-align: middle;
+		line-height: normal;
+	}
+
 	.work{
 		display: inline-block;
 		text-align: center;
