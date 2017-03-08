@@ -2588,7 +2588,7 @@
 
 						#header > nav ul li a.active {
 							background: #fff;
-							color: #98ff98 !important;
+							color: #4acaa8 !important;
 						}
 
 					#header > nav ul li:first-child {
@@ -2867,7 +2867,7 @@
 					}
 
 					#titleBar .toggle:before {
-						background: #4acaa8;
+						background: #0;
 						color: #ffffff;
 						content: '\f0c9';
 						display: block;
