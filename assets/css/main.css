@@ -2449,7 +2449,7 @@
 	.work{
 		display: inline-block;
 		vertical-align: middle;
-		width: 20%;
+		width: auto;
 		border-right:solid green 2px;
 	}
 
