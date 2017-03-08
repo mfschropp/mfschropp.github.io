@@ -2481,7 +2481,7 @@
 		-ms-justify-content: space-between;
 		justify-content: space-between;
 		background: #98a0ff;
-		color: #fff;
+		color: #CACEFF;
 		height: 100%;
 		overflow-y: auto;
 		position: fixed;
@@ -2500,7 +2500,7 @@
 			}
 
 		#header header p {
-			color: #b4b8e8;
+			color: #fff;
 		}
 
 		#header a {
