@@ -2450,6 +2450,7 @@
 		display: inline-block;
 		vertical-align: middle;
 		width: auto;
+		padding-right: 1em;
 		border-right:solid green 2px;
 	}
 
