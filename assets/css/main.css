@@ -2440,6 +2440,7 @@
 			display: inline-block;
 			vertical-align: middle;
 			width: 50%;
+			max-height: 500px;
 		}
 
 			.features article .inner > :last-child {
@@ -2450,6 +2451,7 @@
 		display: inline-block;
 		vertical-align: middle;
 		width: auto;
+		height: 500px;
 		padding-right: 1em;
 		border-right:solid green 2px;
 	}
