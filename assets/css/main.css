@@ -2439,6 +2439,7 @@
 		.features article .inner {
 			display: inline-block;
 			vertical-align: middle;
+			padding-left: 1em;
 			width: 50%;
 			max-height: 100px;
 		}
@@ -2448,12 +2449,12 @@
 			}
 
 	.work{
-		display: inline-block;
+		display: block;
 		vertical-align: middle;
 		width: auto;
 		height: 100px;
-		padding-right: 1em;
-		border-right:solid green 2px;
+		padding-right: 0.5em;
+		border-right:solid green 3px;
 	}
 
 /* Header */
