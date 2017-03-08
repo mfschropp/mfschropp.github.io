@@ -2459,6 +2459,12 @@
 		border-right:solid green 3px;
 	}
 
+	.worker{
+		display: inline-block;
+		vertical-align: middle;
+		text-align: center;
+	}
+
 /* Header */
 
 	#header {
