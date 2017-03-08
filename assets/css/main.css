@@ -2451,10 +2451,9 @@
 	.work{
 		display: inline-block;
 		text-align: center;
-		vertical-align: center;
 		width: auto;
 		height: 150px;
-		padding-top: 50%;
+		line-height: 150px;
 		padding-right: 0.5em;
 		border-right:solid green 3px;
 	}
