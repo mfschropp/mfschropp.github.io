@@ -2440,8 +2440,8 @@
 			display: inline-block;
 			vertical-align: middle;
 			padding-left: 0.5em;
-			width: 50%;
-			max-height: 150px;
+			width: 75%;
+			max-height: 200px;
 		}
 
 			.features article .inner > :last-child {
