@@ -2437,10 +2437,10 @@
 			}
 
 		.features article .inner {
-			display: block;
+			display: inline-block;
 			vertical-align: middle;
 			padding-left: 0.5em;
-			width: 50%;
+			width: 75%;
 			max-height: 200px;
 		}
 
