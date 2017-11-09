@@ -2437,7 +2437,7 @@
 			}
 
 		.features article .inner {
-			display: inline-block;
+			display: block;
 			vertical-align: middle;
 			padding-left: 0.5em;
 			width: 50%;
